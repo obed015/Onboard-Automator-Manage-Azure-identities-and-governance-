@@ -1,2 +1,2 @@
-# Onboard-Automator-Manage-Azure-identities-and-governance-
+# Onboard-Automator
 Azure Logic App for Automated Employee Onboarding
